@@ -68,8 +68,12 @@ Hands-on experimentation with:
 | **2025** | **Application Build** <br>*(Learning Project)* | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 <p align="left">
-  <a href="(((LINK/LINK)))"><img src="https://img.shields.io/badge/-More_Info-003399?style=for-the-badge&logo=info" /></a>
-  <a href="(((LINK/LINK)))"><img src="https://img.shields.io/badge/-Other_Projects-003399?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Britos-58/Britos-58/blob/main/Evolution.md">
+    <img src="https://img.shields.io/badge/-More_Info-003399?style=for-the-badge&logo=info" />
+  </a>
+  <a href="https://github.com/Britos-58/Britos-58/blob/main/Other%20Projects.md">
+    <img src="https://img.shields.io/badge/-Other_Projects-003399?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
@@ -87,9 +91,13 @@ Currently focusing on developing skills in:
 ### 📨 Connect
 *Available for technical discussions, collaboration, and professional networking.*
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((((LINK/LINK))))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lopes-41b6163a0/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:(((LINK/LINK))))
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]((((LINK/LINK))))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/(((O_TEU_USER))))
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/(((O_TEU_USER))))
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/(((O_TEU_ID))))
+[![More](https://img.shields.io/badge/-More-333333?style=for-the-badge&logo=chain&logoColor=white)]((((LINK/LINK))))
 
 ---
 
