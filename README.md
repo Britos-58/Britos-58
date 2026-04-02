@@ -1,10 +1,11 @@
-# ⚡ Britos-58 | Entry-Level IT Career
+# 🤓 Britos-58 | Entry-Level IT Career
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=250&section=header&text=Britos-58&fontSize=70&subtitle=Entry-Level%20IT%20Career&fontAlignY=40" width="100%" />
 </p>
 
-🚀 **Building practical technical skills through hands-on learning in Remote and modern IT environments.**
+<p align="center"><i> Building practical technical skills through hands-on learning in Remote and modern IT environments. </i></p>
+ 
 
 ---
 
@@ -13,10 +14,10 @@ Aspiring **IT Specialist** focused on developing practical skills in technology 
 
 I am currently working on building a strong technical foundation through hands-on learning, labs, and personal projects.
 
-🚒 **Background**
+ **Background** _
 My **Volunteer Firefighter** experience has strengthened my discipline, resilience, and ability to remain calm while handling critical situations. These qualities translate directly into technical environments where structured thinking and problem-solving under pressure are essential.
 
-🎯 **Current Mission**
+ **Current Mission** _
 Seeking **Remote-First Entry-Level opportunities** to begin my professional journey in technology.
 
 **Primary Remote Targets:**
@@ -35,7 +36,7 @@ My background in humanities contributes to strong communication skills, critical
 
 ---
 
-### 📚 Continuous Learning
+### 📑 Continuous Learning
 Currently building technical foundations through the following platforms:
 
 • **Cisco Networking Academy** — Networking and connectivity fundamentals
@@ -73,7 +74,7 @@ Hands-on experimentation with:
 
 ---
 
-### 🔭 Current Focus
+### 📍 Current Focus
 Currently focusing on developing skills in:
 
 • **Troubleshooting Workflows**
@@ -83,7 +84,7 @@ Currently focusing on developing skills in:
 
 ---
 
-### 📫 Connect
+### 📨 Connect
 *Available for technical discussions, collaboration, and professional networking.*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((((LINK/LINK))))
